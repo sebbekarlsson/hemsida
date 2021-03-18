@@ -1,0 +1,4 @@
+CSS Bestar av:
+1. Selectorer / selectors
+2. Styling-regler
+3. Block
